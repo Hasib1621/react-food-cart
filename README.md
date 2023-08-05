@@ -1,3 +1,12 @@
+# Live Demo:
+https://react-food-cart-frontend.netlify.app/
+
+# About this project: 
+Here I implement cart functionality just. It's just a basic frontend part without order functionality.
+Though this project is very simple, in this project I use some important hooks and use context API and portal. 
+
+Hook used: useState,useEffect,useReducer, useRef, useContext.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
